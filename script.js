@@ -27,7 +27,7 @@ async function fetchDiscordStatus() {
 				break;
 			default:
 				imagePath =
-					"https://avatars.githubusercontent.com/u/91520891?v=4";
+					"https://cdn.discordapp.com/attachments/1000271433777299588/1100167168273956904/output-onlinepngtools.pn";
 				break;
 		}
 
